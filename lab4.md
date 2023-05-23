@@ -4,7 +4,7 @@
 `$ ssh cs15lsp23xx@ieng6.ucsd.edu` 
 You will then be prompted to insert your password like usual and type in yes. 
 
-## **Step 1: Clone the Link**
+## **Step 2: Clone the Link**
 Git clone the fork of the repository github link for the lab 7 report. 
 `$ git clone https://github.com/ucsd-cse15l-s23/lab7` 
 
